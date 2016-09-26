@@ -1,0 +1,1 @@
+%~dp0InstallUtil.exe /u %~dp0ucpAgentSer.exe

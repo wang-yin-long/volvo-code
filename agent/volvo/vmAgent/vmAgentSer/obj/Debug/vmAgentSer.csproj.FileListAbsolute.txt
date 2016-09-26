@@ -1,0 +1,12 @@
+Z:\work\volvo\vmAgent\vmAgentSer\bin\Debug\vmAgentSer.exe.config
+Z:\work\volvo\vmAgent\vmAgentSer\bin\Debug\vmAgentSer.exe
+Z:\work\volvo\vmAgent\vmAgentSer\bin\Debug\vmAgentSer.pdb
+Z:\work\volvo\vmAgent\vmAgentSer\obj\Debug\vmAgentSer.ProjectInstaller.resources
+Z:\work\volvo\vmAgent\vmAgentSer\obj\Debug\vmAgentSer.csproj.GenerateResource.Cache
+Z:\work\volvo\vmAgent\vmAgentSer\obj\Debug\vmAgentSer.exe
+Z:\work\volvo\vmAgent\vmAgentSer\obj\Debug\vmAgentSer.pdb
+Z:\work\volvo\vmAgent\vmAgentSer\bin\Debug\vmAgentSer.exe.manifest
+Z:\work\volvo\vmAgent\vmAgentSer\bin\Debug\vmAgentSer.application
+Z:\work\volvo\vmAgent\vmAgentSer\obj\Debug\vmAgentSer.exe.manifest
+Z:\work\volvo\vmAgent\vmAgentSer\obj\Debug\vmAgentSer.application
+Z:\work\volvo\vmAgent\vmAgentSer\obj\Debug\vmAgentSer.vmAgentService.resources

@@ -1,0 +1,212 @@
+﻿
+
+The uninstall is beginning.
+See the contents of the log file for the c:\volvo\vmAgentSer.exe assembly's progress.
+The file is located at c:\volvo\vmAgentSer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\volvo\vmAgentSer.exe assembly's progress.
+The file is located at c:\volvo\vmAgentSer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\volvo\vmAgentSer.exe assembly's progress.
+The file is located at c:\volvo\vmAgentSer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\volvo\vmAgentSer.exe assembly's progress.
+The file is located at c:\volvo\vmAgentSer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\volvo\vmAgentSer.exe assembly's progress.
+The file is located at c:\volvo\vmAgentSer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\volvo\vmAgentSer.exe assembly's progress.
+The file is located at c:\volvo\vmAgentSer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\volvo\vmAgentSer.exe assembly's progress.
+The file is located at c:\volvo\vmAgentSer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\volvo\vmAgentSer.exe assembly's progress.
+The file is located at c:\volvo\vmAgentSer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\volvo\vmAgentSer.exe assembly's progress.
+The file is located at c:\volvo\vmAgentSer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\volvo\vmAgentSer.exe assembly's progress.
+The file is located at c:\volvo\vmAgentSer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\volvo\vmAgentSer.exe assembly's progress.
+The file is located at C:\volvo\vmAgentSer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\volvo\vmAgentSer.exe assembly's progress.
+The file is located at C:\volvo\vmAgentSer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\volvo\vmAgentSer.exe assembly's progress.
+The file is located at C:\volvo\vmAgentSer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\volvo\vmAgentSer.exe assembly's progress.
+The file is located at C:\volvo\vmAgentSer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\volvo\vmAgentSer.exe assembly's progress.
+The file is located at C:\volvo\vmAgentSer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\volvo\vmAgentSer.exe assembly's progress.
+The file is located at C:\volvo\vmAgentSer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\volvo\vmAgentSer.exe assembly's progress.
+The file is located at C:\volvo\vmAgentSer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\volvo\vmAgentSer.exe assembly's progress.
+The file is located at C:\volvo\vmAgentSer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+正在运行事务处理安装。
+
+正在开始安装的“安装”阶段。
+查看日志文件的内容以获得 C:\Users\ChuanJun Ma\Desktop\volvo\volvo-install\ucpAgentSer.exe 程序集的进度。
+该文件位于 C:\Users\ChuanJun Ma\Desktop\volvo\volvo-install\ucpAgentSer.InstallLog。
+
+在“安装”阶段发生异常。
+System.Security.SecurityException: 未找到源，但未能搜索某些或全部事件日志。  不可访问的日志: Security。
+
+正在开始安装的“回滚”阶段。
+查看日志文件的内容以获得 C:\Users\ChuanJun Ma\Desktop\volvo\volvo-install\ucpAgentSer.exe 程序集的进度。
+该文件位于 C:\Users\ChuanJun Ma\Desktop\volvo\volvo-install\ucpAgentSer.InstallLog。
+
+“回滚”阶段已成功完成。
+
+已完成事务处理安装。
+
+正在运行事务处理安装。
+
+正在开始安装的“安装”阶段。
+查看日志文件的内容以获得 C:\Users\ChuanJun Ma\Desktop\volvo\volvo-install\ucpAgentSer.exe 程序集的进度。
+该文件位于 C:\Users\ChuanJun Ma\Desktop\volvo\volvo-install\ucpAgentSer.InstallLog。
+
+在“安装”阶段发生异常。
+System.Security.SecurityException: 未找到源，但未能搜索某些或全部事件日志。  不可访问的日志: Security。
+
+正在开始安装的“回滚”阶段。
+查看日志文件的内容以获得 C:\Users\ChuanJun Ma\Desktop\volvo\volvo-install\ucpAgentSer.exe 程序集的进度。
+该文件位于 C:\Users\ChuanJun Ma\Desktop\volvo\volvo-install\ucpAgentSer.InstallLog。
+
+“回滚”阶段已成功完成。
+
+已完成事务处理安装。
+
+正在运行事务处理安装。
+
+正在开始安装的“安装”阶段。
+查看日志文件的内容以获得 C:\Users\ChuanJun Ma\Desktop\volvo\volvo-install\ucpAgentSer.exe 程序集的进度。
+该文件位于 C:\Users\ChuanJun Ma\Desktop\volvo\volvo-install\ucpAgentSer.InstallLog。
+
+在“安装”阶段发生异常。
+System.Security.SecurityException: 未找到源，但未能搜索某些或全部事件日志。  不可访问的日志: Security。
+
+正在开始安装的“回滚”阶段。
+查看日志文件的内容以获得 C:\Users\ChuanJun Ma\Desktop\volvo\volvo-install\ucpAgentSer.exe 程序集的进度。
+该文件位于 C:\Users\ChuanJun Ma\Desktop\volvo\volvo-install\ucpAgentSer.InstallLog。
+
+“回滚”阶段已成功完成。
+
+已完成事务处理安装。
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\volvo-install\ucpAgentSer.exe assembly's progress.
+The file is located at C:\volvo-install\ucpAgentSer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\volvo-install\ucpAgentSer.exe assembly's progress.
+The file is located at C:\volvo-install\ucpAgentSer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\volvo-install\ucpAgentSer.exe assembly's progress.
+The file is located at C:\volvo-install\ucpAgentSer.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\ucp\ucpAgentSer.exe assembly's progress.
+The file is located at C:\ucp\ucpAgentSer.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\ucp\ucpAgentSer.exe assembly's progress.
+The file is located at C:\ucp\ucpAgentSer.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.

@@ -1,0 +1,146 @@
+<upcAgentSer>:  5/20/2016 2:26:57 PM  >   service start!
+
+<upcAgentSer>:  2016/5/20 14:33:37  >   service start!
+
+<upcAgentSer>:  2016/5/20 15:13:11  >   service stop!
+
+<upcAgentSer>:  2016/5/24 14:53:38  >   service start!
+
+<upcAgentSer>:  2016/5/24 14:57:32  >   service stop!
+
+<upcAgentSer>:  2016/5/24 15:05:11  >   service start!
+
+<upcAgentSer>:  2016/5/24 15:12:06  >   service stop!
+
+<upcAgentSer>:  2016/5/24 15:15:33  >   service start!
+
+<upcAgentSer>:  2016/5/24 16:06:04  >  OnSessionChange <SessionLogoff> <UserName>:SYSTEM
+
+<upcAgentSer>:  2016/5/24 16:06:06  >  RunAsUser:TraceWin32Error,Last Error Code:There has no Explorer process running yet!0
+
+<upcAgentSer>:  2016/5/24 16:06:06  >  OnSessionChange <SessionLogon> <UserName>:SYSTEM
+
+<upcAgentSer>:  2016/5/24 16:19:55  >   service stop!
+
+<upcAgentSer>:  2016/5/24 16:22:34  >   service start!
+
+<upcAgentSer>:  2016/5/24 16:27:04  >   service stop!
+
+<upcAgentSer>:  2016/5/27 10:40:34  >   service start!
+
+<upcAgentSer>:  2016/5/27 10:41:39  >   service stop!
+
+<upcAgentSer>:  2016/5/27 11:02:48  >   service start!
+
+<upcAgentSer>:  2016/5/27 11:03:21  >   service stop!
+
+<upcAgentSer>:  2016/5/27 15:54:18  >   service start!
+
+<upcAgentSer>:  2016/5/27 16:00:51  >   service stop!
+
+<upcAgentSer>:  2016/5/27 16:05:17  >   service start!
+
+<upcAgentSer>:  2016/5/27 16:12:23  >  OnSessionChange <SessionLogoff> <UserName>:SYSTEM
+
+<upcAgentSer>:  2016/5/27 16:12:23  >  RunAsUser:TraceWin32Error,Last Error Code:There has no Explorer process running yet!0
+
+<upcAgentSer>:  2016/5/27 16:13:50  >   service start!
+
+<upcAgentSer>:  2016/5/27 16:18:26  >   service stop!
+
+<upcAgentSer>:  2016/5/27 16:33:32  >   service start!
+
+<upcAgentSer>:  2016/5/27 16:34:58  >  RunAsUser:TraceWin32Error,Last Error Code:There has no Explorer process running yet!0
+
+<upcAgentSer>:  2016/5/27 16:34:58  >  OnSessionChange <SessionLogoff> <UserName>:SYSTEM
+
+<upcAgentSer>:  2016/5/27 16:35:03  >  OnSessionChange <SessionLogon> <UserName>:SYSTEM
+
+<upcAgentSer>:  2016/5/27 16:35:58  >   service stop!
+
+<upcAgentSer>:  2016/5/27 16:48:20  >   service start!
+
+<upcAgentSer>:  2016/5/27 16:49:43  >   service stop!
+
+<upcAgentSer>:  2016/5/27 16:55:12  >   service start!
+
+<upcAgentSer>:  2016/5/27 16:59:34  >   service stop!
+
+<upcAgentSer>:  2016/5/27 17:01:08  >   service start!
+
+<upcAgentSer>:  2016/5/27 17:04:06  >   service stop!
+
+<upcAgentSer>:  2016/5/27 18:05:53  >   service start!
+
+<upcAgentSer>:  2016/5/27 18:06:51  >   service stop!
+
+<upcAgentSer>:  2016/5/30 11:28:54  >   service start!
+
+<upcAgentSer>:  2016/5/30 11:30:09  >   service stop!
+
+<upcAgentSer>:  2016/5/30 11:31:15  >   service start!
+
+<upcAgentSer>:  2016/5/30 11:33:09  >  OnSessionChange <SessionLogoff> <UserName>:SYSTEM
+
+<upcAgentSer>:  2016/5/30 11:33:11  >  RunAsUser:TraceWin32Error,Last Error Code:There has no Explorer process running yet!0
+
+<upcAgentSer>:  2016/5/30 11:33:14  >  OnSessionChange <SessionLogon> <UserName>:SYSTEM
+
+<upcAgentSer>:  2016/5/30 11:33:45  >   service stop!
+
+<upcAgentSer>:  2016/6/30 9:26:37  >   service start!
+
+<upcAgentSer>:  2016/6/30 9:30:03  >   service stop!
+
+<upcAgentSer>:  2016/7/1 9:55:45  >   service start!
+
+<upcAgentSer>:  2016/7/1 9:56:00  >   service stop!
+
+<upcAgentSer>:  2016/8/1 16:16:34  >   service start!
+
+<upcAgentSer>:  2016/8/1 16:16:57  >   service stop!
+
+<upcAgentSer>:  2016/8/2 10:24:27  >   service start!
+
+<upcAgentSer>:  2016/8/2 10:25:13  >  RunAsUser:TraceWin32Error,Last Error Code:There has no Explorer process running yet!0
+
+<upcAgentSer>:  2016/8/2 10:25:18  >  RunAsUser:TraceWin32Error,Last Error Code:There has no Explorer process running yet!0
+
+<upcAgentSer>:  2016/8/2 10:25:18  >  OnSessionChange <SessionLogoff> <UserName>:SYSTEM
+
+<upcAgentSer>:  2016/8/2 10:25:23  >  RunAsUser:TraceWin32Error,Last Error Code:There has no Explorer process running yet!0
+
+<upcAgentSer>:  2016/8/2 10:25:28  >  RunAsUser:TraceWin32Error,Last Error Code:There has no Explorer process running yet!0
+
+<upcAgentSer>:  2016/8/2 10:25:33  >  RunAsUser:TraceWin32Error,Last Error Code:There has no Explorer process running yet!0
+
+<upcAgentSer>:  2016/8/2 10:25:38  >  RunAsUser:TraceWin32Error,Last Error Code:There has no Explorer process running yet!0
+
+<upcAgentSer>:  2016/8/2 10:25:43  >  RunAsUser:TraceWin32Error,Last Error Code:There has no Explorer process running yet!0
+
+<upcAgentSer>:  2016/8/2 10:29:51  >   service start!
+
+<upcAgentSer>:  2016/8/2 10:32:12  >  OnSessionChange <SessionLogoff> <UserName>:SYSTEM
+
+<upcAgentSer>:  2016/8/2 10:32:12  >  RunAsUser:TraceWin32Error,Last Error Code:There has no Explorer process running yet!0
+
+<upcAgentSer>:  2016/8/2 10:32:17  >  RunAsUser:TraceWin32Error,Last Error Code:There has no Explorer process running yet!0
+
+<upcAgentSer>:  2016/8/2 10:32:22  >  RunAsUser:TraceWin32Error,Last Error Code:There has no Explorer process running yet!0
+
+<upcAgentSer>:  2016/8/2 10:32:24  >  OnSessionChange <SessionLogon> <UserName>:SYSTEM
+
+<upcAgentSer>:  2016/8/2 10:35:30  >  OnSessionChange <SessionLogoff> <UserName>:SYSTEM
+
+<upcAgentSer>:  2016/8/2 10:35:32  >  OnSessionChange <SessionLogon> <UserName>:SYSTEM
+
+<upcAgentSer>:  2016/8/2 10:36:48  >   service stop!
+
+<upcAgentSer>:  2016/9/13 16:23:57  >   service start!
+
+<upcAgentSer>:  2016/9/13 16:24:55  >   service stop!
+
+<upcAgentSer>:  2016/9/13 16:25:58  >   service start!
+
+<upcAgentSer>:  2016/9/13 16:26:18  >   service stop!
+

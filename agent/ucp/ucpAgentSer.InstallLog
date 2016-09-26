@@ -1,0 +1,483 @@
+﻿正在安装程序集“C:\Users\ChuanJun Ma\Desktop\volvo\volvo-install\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\ChuanJun Ma\Desktop\volvo\volvo-install\ucpAgentSer.InstallLog
+   assemblypath = C:\Users\ChuanJun Ma\Desktop\volvo\volvo-install\ucpAgentSer.exe
+正在安装服务 upcAgentSer...
+正在日志 Application 中创建 EventLog 源 upcAgentSer...
+正在回滚程序集“C:\Users\ChuanJun Ma\Desktop\volvo\volvo-install\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\ChuanJun Ma\Desktop\volvo\volvo-install\ucpAgentSer.InstallLog
+   assemblypath = C:\Users\ChuanJun Ma\Desktop\volvo\volvo-install\ucpAgentSer.exe
+正在将事件日志还原到源 upcAgentSer 的前一状态。
+在 System.Diagnostics.EventLogInstaller 安装程序的“回滚”阶段发生异常。
+System.Security.SecurityException: 未找到源，但未能搜索某些或全部事件日志。  不可访问的日志: Security。
+在安装的“回滚”阶段发生异常。将忽略该异常并继续回滚。但是，在完成回滚后计算机可能无法完全还原到它的初始状态。
+正在安装程序集“C:\Users\ChuanJun Ma\Desktop\volvo\volvo-install\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\ChuanJun Ma\Desktop\volvo\volvo-install\ucpAgentSer.InstallLog
+   assemblypath = C:\Users\ChuanJun Ma\Desktop\volvo\volvo-install\ucpAgentSer.exe
+正在安装服务 upcAgentSer...
+正在日志 Application 中创建 EventLog 源 upcAgentSer...
+正在回滚程序集“C:\Users\ChuanJun Ma\Desktop\volvo\volvo-install\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\ChuanJun Ma\Desktop\volvo\volvo-install\ucpAgentSer.InstallLog
+   assemblypath = C:\Users\ChuanJun Ma\Desktop\volvo\volvo-install\ucpAgentSer.exe
+正在将事件日志还原到源 upcAgentSer 的前一状态。
+在 System.Diagnostics.EventLogInstaller 安装程序的“回滚”阶段发生异常。
+System.Security.SecurityException: 未找到源，但未能搜索某些或全部事件日志。  不可访问的日志: Security。
+在安装的“回滚”阶段发生异常。将忽略该异常并继续回滚。但是，在完成回滚后计算机可能无法完全还原到它的初始状态。
+正在安装程序集“C:\Users\ChuanJun Ma\Desktop\volvo\volvo-install\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\ChuanJun Ma\Desktop\volvo\volvo-install\ucpAgentSer.InstallLog
+   assemblypath = C:\Users\ChuanJun Ma\Desktop\volvo\volvo-install\ucpAgentSer.exe
+正在安装服务 upcAgentSer...
+正在日志 Application 中创建 EventLog 源 upcAgentSer...
+正在回滚程序集“C:\Users\ChuanJun Ma\Desktop\volvo\volvo-install\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\ChuanJun Ma\Desktop\volvo\volvo-install\ucpAgentSer.InstallLog
+   assemblypath = C:\Users\ChuanJun Ma\Desktop\volvo\volvo-install\ucpAgentSer.exe
+正在将事件日志还原到源 upcAgentSer 的前一状态。
+在 System.Diagnostics.EventLogInstaller 安装程序的“回滚”阶段发生异常。
+System.Security.SecurityException: 未找到源，但未能搜索某些或全部事件日志。  不可访问的日志: Security。
+在安装的“回滚”阶段发生异常。将忽略该异常并继续回滚。但是，在完成回滚后计算机可能无法完全还原到它的初始状态。
+Installing assembly 'C:\volvo-install\ucpAgentSer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\volvo-install\ucpAgentSer.InstallLog
+   assemblypath = C:\volvo-install\ucpAgentSer.exe
+Installing service upcAgentSer...
+Service upcAgentSer has been successfully installed.
+Creating EventLog source upcAgentSer in log Application...
+Committing assembly 'C:\volvo-install\ucpAgentSer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\volvo-install\ucpAgentSer.InstallLog
+   assemblypath = C:\volvo-install\ucpAgentSer.exe
+Uninstalling assembly 'C:\volvo-install\ucpAgentSer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\volvo-install\ucpAgentSer.InstallLog
+   assemblypath = C:\volvo-install\ucpAgentSer.exe
+Removing EventLog source upcAgentSer.
+Service upcAgentSer is being removed from the system...
+Service upcAgentSer was successfully removed from the system.
+Installing assembly 'C:\ucp\ucpAgentSer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+Installing service upcAgentSer...
+Service upcAgentSer has been successfully installed.
+Creating EventLog source upcAgentSer in log Application...
+Committing assembly 'C:\ucp\ucpAgentSer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在卸载程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在移除 EventLog 源 upcAgentSer。
+正在从系统中移除服务 upcAgentSer...
+已成功地从系统中移除服务 upcAgentSer。
+正在安装程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在安装服务 upcAgentSer...
+已成功安装服务 upcAgentSer。
+正在日志 Application 中创建 EventLog 源 upcAgentSer...
+正在提交程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在卸载程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在移除 EventLog 源 upcAgentSer。
+正在从系统中移除服务 upcAgentSer...
+已成功地从系统中移除服务 upcAgentSer。
+正在安装程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在安装服务 upcAgentSer...
+已成功安装服务 upcAgentSer。
+正在日志 Application 中创建 EventLog 源 upcAgentSer...
+正在提交程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在卸载程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在移除 EventLog 源 upcAgentSer。
+正在从系统中移除服务 upcAgentSer...
+已成功地从系统中移除服务 upcAgentSer。
+正在安装程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在安装服务 upcAgentSer...
+已成功安装服务 upcAgentSer。
+正在日志 Application 中创建 EventLog 源 upcAgentSer...
+正在提交程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在卸载程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在移除 EventLog 源 upcAgentSer。
+正在从系统中移除服务 upcAgentSer...
+已成功地从系统中移除服务 upcAgentSer。
+正在安装程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在安装服务 upcAgentSer...
+已成功安装服务 upcAgentSer。
+正在日志 Application 中创建 EventLog 源 upcAgentSer...
+正在提交程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在卸载程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在移除 EventLog 源 upcAgentSer。
+正在从系统中移除服务 upcAgentSer...
+已成功地从系统中移除服务 upcAgentSer。
+尝试停止服务 upcAgentSer。
+正在安装程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在安装服务 upcAgentSer...
+已成功安装服务 upcAgentSer。
+正在日志 Application 中创建 EventLog 源 upcAgentSer...
+正在提交程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在卸载程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在移除 EventLog 源 upcAgentSer。
+正在从系统中移除服务 upcAgentSer...
+已成功地从系统中移除服务 upcAgentSer。
+正在安装程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在安装服务 upcAgentSer...
+已成功安装服务 upcAgentSer。
+正在日志 Application 中创建 EventLog 源 upcAgentSer...
+正在提交程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在卸载程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在移除 EventLog 源 upcAgentSer。
+正在从系统中移除服务 upcAgentSer...
+已成功地从系统中移除服务 upcAgentSer。
+正在安装程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在安装服务 upcAgentSer...
+已成功安装服务 upcAgentSer。
+正在日志 Application 中创建 EventLog 源 upcAgentSer...
+正在提交程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在卸载程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在移除 EventLog 源 upcAgentSer。
+正在从系统中移除服务 upcAgentSer...
+已成功地从系统中移除服务 upcAgentSer。
+正在安装程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在安装服务 upcAgentSer...
+已成功安装服务 upcAgentSer。
+正在日志 Application 中创建 EventLog 源 upcAgentSer...
+正在提交程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在卸载程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在移除 EventLog 源 upcAgentSer。
+正在从系统中移除服务 upcAgentSer...
+已成功地从系统中移除服务 upcAgentSer。
+正在安装程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在安装服务 upcAgentSer...
+已成功安装服务 upcAgentSer。
+正在日志 Application 中创建 EventLog 源 upcAgentSer...
+正在提交程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在卸载程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在移除 EventLog 源 upcAgentSer。
+正在从系统中移除服务 upcAgentSer...
+已成功地从系统中移除服务 upcAgentSer。
+正在安装程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在安装服务 upcAgentSer...
+已成功安装服务 upcAgentSer。
+正在日志 Application 中创建 EventLog 源 upcAgentSer...
+正在提交程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在卸载程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在移除 EventLog 源 upcAgentSer。
+正在从系统中移除服务 upcAgentSer...
+已成功地从系统中移除服务 upcAgentSer。
+正在安装程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在安装服务 upcAgentSer...
+已成功安装服务 upcAgentSer。
+正在日志 Application 中创建 EventLog 源 upcAgentSer...
+正在提交程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在卸载程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在移除 EventLog 源 upcAgentSer。
+正在从系统中移除服务 upcAgentSer...
+已成功地从系统中移除服务 upcAgentSer。
+正在安装程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在安装服务 upcAgentSer...
+已成功安装服务 upcAgentSer。
+正在日志 Application 中创建 EventLog 源 upcAgentSer...
+正在提交程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在卸载程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在移除 EventLog 源 upcAgentSer。
+正在从系统中移除服务 upcAgentSer...
+已成功地从系统中移除服务 upcAgentSer。
+正在安装程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在安装服务 upcAgentSer...
+已成功安装服务 upcAgentSer。
+正在日志 Application 中创建 EventLog 源 upcAgentSer...
+正在提交程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在卸载程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在移除 EventLog 源 upcAgentSer。
+正在从系统中移除服务 upcAgentSer...
+已成功地从系统中移除服务 upcAgentSer。
+正在安装程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在安装服务 upcAgentSer...
+已成功安装服务 upcAgentSer。
+正在日志 Application 中创建 EventLog 源 upcAgentSer...
+正在提交程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在卸载程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在移除 EventLog 源 upcAgentSer。
+正在从系统中移除服务 upcAgentSer...
+已成功地从系统中移除服务 upcAgentSer。
+正在安装程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在安装服务 upcAgentSer...
+已成功安装服务 upcAgentSer。
+正在日志 Application 中创建 EventLog 源 upcAgentSer...
+正在提交程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在卸载程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在移除 EventLog 源 upcAgentSer。
+正在从系统中移除服务 upcAgentSer...
+已成功地从系统中移除服务 upcAgentSer。
+正在卸载程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在移除 EventLog 源 upcAgentSer。
+警告: 源 upcAgentSer 未在本地计算机上注册。
+正在从系统中移除服务 upcAgentSer...
+在卸载 System.ServiceProcess.ServiceInstaller 安装程序的过程中发生异常。
+System.ComponentModel.Win32Exception: 指定的服务未安装。
+在卸载的过程中发生异常。将忽略该异常并继续卸载。但是，在卸载完成之后应用程序可能未完全卸载。
+正在安装程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在安装服务 upcAgentSer...
+已成功安装服务 upcAgentSer。
+正在日志 Application 中创建 EventLog 源 upcAgentSer...
+正在提交程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在卸载程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在移除 EventLog 源 upcAgentSer。
+正在从系统中移除服务 upcAgentSer...
+已成功地从系统中移除服务 upcAgentSer。
+正在安装程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在安装服务 upcAgentSer...
+已成功安装服务 upcAgentSer。
+正在日志 Application 中创建 EventLog 源 upcAgentSer...
+正在提交程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在卸载程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在移除 EventLog 源 upcAgentSer。
+正在从系统中移除服务 upcAgentSer...
+已成功地从系统中移除服务 upcAgentSer。
+正在卸载程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在移除 EventLog 源 upcAgentSer。
+警告: 源 upcAgentSer 未在本地计算机上注册。
+正在从系统中移除服务 upcAgentSer...
+在卸载 System.ServiceProcess.ServiceInstaller 安装程序的过程中发生异常。
+System.ComponentModel.Win32Exception: 指定的服务未安装。
+在卸载的过程中发生异常。将忽略该异常并继续卸载。但是，在卸载完成之后应用程序可能未完全卸载。
+正在安装程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe
+正在安装服务 upcAgentSer...
+已成功安装服务 upcAgentSer。
+正在日志 Application 中创建 EventLog 源 upcAgentSer...
+正在提交程序集“C:\ucp\ucpAgentSer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\ucp\ucpAgentSer.InstallLog
+   assemblypath = C:\ucp\ucpAgentSer.exe

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+ 
+  <appSettings>
+    <!-- 
+      Portal Server IP and Port
+    -->
+    <add key="ServerIP" value="10.237.14.52:3000"/>
+    <!--
+      Check User Time Interval ( Millsecond )
+    -->
+    <add key="CheckInterval" value="30000"/>
+    <!-- 
+      Server Heart Beat  Time Interval ( Millsecond )
+    -->
+    <add key="AgentHeartBeat" value="60000"/>
+    <!-- 
+      Remaining Time Warning Limit ( Minute ) 
+    -->
+    <add key="ShowRemainWarning" value="10"/>
+    <!-- 
+     检查预订时间在后台是否被修改的间隔时间 ( 毫秒 )
+    -->
+    <add key="CheckBookUpdated" value="60000"/>
+    
+  </appSettings>
+</configuration>
